@@ -1,0 +1,67 @@
+# =========================================================
+#  Node.js and npm related
+# =========================================================
+node_modules/
+package-lock.json
+
+
+# =========================================================
+#  Configuration Files
+# =========================================================
+
+
+
+# =========================================================
+#  Log Files
+# =========================================================
+console.log
+*.log
+
+
+# =========================================================
+#  Temporary Files - Audio 
+# =========================================================
+
+
+# =========================================================
+#  Operating System Generated Files
+#  (System files, metadata, thumbnails, etc.)
+# =========================================================
+.DS_Store        # macOS folder metadata
+._*             # macOS resource forks
+Thumbs.db       # Windows thumbnail cache
+
+
+# =========================================================
+#  Editor and IDE Specific Files
+# =========================================================
+#  --- IntelliJ IDEA ---
+# .idea/
+# *.iml
+# *.ipr
+# *.iws
+
+#  --- Visual Studio Code ---
+# .vscode/
+
+#  --- Eclipse ---
+# .project
+# .classpath
+
+
+# =========================================================
+#  Backup and Swap Files
+#  (Editor backup files, swap files, etc.)
+# =========================================================
+*~              # Generic editor backup files
+*.bak           # Common backup file extension
+*.swo           # Vim swap files
+*.swp           # Vim swap files
+
+
+# =========================================================
+#  Dependency Directories
+# =========================================================
+# models/         # Example:  Generic models directory
+# piper_models/   # Example: Piper TTS models directory
+# vosk_models/    # Example: Vosk ASR models directory

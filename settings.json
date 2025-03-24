@@ -1,0 +1,10 @@
+{
+  "DISCORD_TOK": "Your_Discord_Bot_Token", //Put your Discord Bot Token here!
+  "PATHS": {
+    "TTS_MODEL_PATH": "C:\\piper\\models\\de\\de_DE\\thorsten\\high\\de_DE-thorsten-high.onnx", //Put your TTS language Model here (i used a german one) 
+    "TTS_EXECUTABLE_PATH": "C:\\piper\\piper.exe", //Path to Piper TTS (for creating your temporary .wav)
+    "VOSK_MODEL_PATH": "C:\\js\\vosk-model-de-0.21", //Path to your VOSK Speech to Text
+    "TEMP_AUDIO_DIR": ".", //Path where Piper TTS stores your temporary .wav file (leave unchanged to keep in main directory)
+    "TRIGGER_SOUND_PATH": "C:\\js\\mein-discord-bot\\triggersound\\noot.wav" //Path from your Trigger sound. When you activate the Trigger Sound it plays it in the Voice Chat.
+  }
+}

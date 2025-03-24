@@ -51,8 +51,8 @@ Follow these steps to set up and run the Oracle bot:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/chaos-flame-bot.git
-    cd chaos-flame-bot
+    git clone https://github.com/SprtnDio/Complete-Local-Discord-AI-Voice-Chat-Bot
+    cd Complete-Local-Discord-AI-Voice-Chat-Bot
     ```
 2.  **Install Node.js modules:**
     ```bash
